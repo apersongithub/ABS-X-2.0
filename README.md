@@ -1,5 +1,5 @@
 # ABS-X 2.0
-An updated version of the orginal ABS-X https://github.com/apersongithub/ABS-X with python web automation and JavaScript.
+An updated version of the well known ABS-X https://github.com/apersongithub/ABS-X with python web automation and JavaScript.
 
 You can join the discord here https://discord.gg/xdwVuz3q
 
